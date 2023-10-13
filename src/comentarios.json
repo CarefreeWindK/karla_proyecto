@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Persona 1",
+        "comment": "Comentario 1 sobre la discapacidad."
+    },
+    {
+        "id": 2,
+        "name": "Persona 2",
+        "comment": "Comentario 2 sobre la discapacidad."
+    },
+    {
+        "id": 3,
+        "name": "Persona 3",
+        "comment": "Comentario 3 sobre la discapacidad."
+    }
+]

@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+#textoPrincipal {
+  font-size: 4em; /* Cambia el tamaño de fuente según tus preferencias */
+  text-align: left; /* Alinea el texto a la izquierda */
+  font-weight: bold;
+  margin: 0 75vh 0 0;
+  padding: 50px;
+  color: #cff6f6;
+}
+
+.App-main {
+  background-color: #282c34;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-links {
+  background-color: #282c34;
+  height: 50vh;
+  width: 100vh;
+  display: flex;
+  flex-direction: row;
+  margin: 1vh;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: #cff6f6;
+}
+
+.comment-container {
+  border: 1px solid #cff6f6;
+  border-radius: 20px;
+  padding: 5vh;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.comment-container h2 {
+  font-size: 24px;
+  color: #cff6f6;
+}
+
+.comment-container p {
+  font-size: 18px;
+  color: #cff6f6;
+}
+
+
+
