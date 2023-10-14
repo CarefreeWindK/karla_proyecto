@@ -31,35 +31,6 @@ function App() {
                     <h2>{currentComment.name}</h2>
                     <p>{currentComment.comment}</p>
                 </motion.div>
-                <p>
-                    Edit <code>src/App.js</code> and save to reload.
-                </p>
-                <div className="App-links">
-                    <a
-                        className="App-link"
-                        href="https://reactjs.org"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        Learn React
-                    </a>
-                    <a
-                        className="App-link"
-                        href="https://reactjs.org"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        Learn React
-                    </a>
-                    <a
-                        className="App-link"
-                        href="https://reactjs.org"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        Learn React
-                    </a>
-                </div>
             </div>
         </div>
     );
