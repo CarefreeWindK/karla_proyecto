@@ -19,7 +19,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1 id="textoPrincipal">Discapacidad auditiva en espacios laborales costarricenses</h1>
+            <h1 id="textoPrincipal">Manos a la obra</h1>
             <div className="App-main">
                 <motion.div
                     key={currentComment.name} // Utiliza el nombre del comentario como clave

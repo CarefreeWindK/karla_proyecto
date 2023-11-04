@@ -1,22 +1,32 @@
 [
     {
         "id": 1,
-        "name": "Persona 1",
+        "name": "Frases",
         "comment": "Los puestos son de muy bajo nivel y con pagos muy bajos y  no tenemos opurtunidad de aspirar a un puesto de mas categoria"
     },
     {
         "id": 2,
-        "name": "Persona 2",
+        "name": "Frases",
         "comment": "Si la capacitacion fuera mas eficiente podriamos aspirar mejores puestos de trabajo y tener mejores salarios"
     },
     {
         "id": 3,
-        "name": "Persona 3",
+        "name": "Frases",
         "comment": "Hay que fomentar para que en todas las empresas haya personal capacitado en el idioma lesco y así poder facilitar un poco la comunicación y hacer que más personas sean capaces de comunicarse con personas como yo."
     },
     {
         "id": 4,
-        "name": "Persona 4",
+        "name": "Frases",
         "comment": "Ese es el problema, no hay apoyo a las personas sordas."
+    },
+    {
+        "id": 5,
+        "name": "Frases",
+        "comment": "el nunca rendirse, el camino no será nada fácil; pero con optimismo, esfuerzo, dedicación, haciendo valer sus derechos, y siempre velar porque la discriminación no se haga presente"
+    },
+    {
+        "id": 6,
+        "name": "Frases",
+        "comment": "Ayudar a otros es la mejor manera de ayudarnos"
     }
 ]
