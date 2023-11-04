@@ -22,12 +22,12 @@ header {
   padding: 20px;
   display: flex; /* Utilizamos flexbox para alinear elementos en una fila */
   align-items: center; /* Centra verticalmente los elementos */
-  justify-content: space-between;
+  justify-content: end;
 }
 #logo {
   width: 75px; /* Ajusta el tamaño según tus necesidades */
   height: 75px; /* Esto mantiene la proporción original */
-  margin: 0 0 0 25px;
+  padding-right: 100vh;
 }
 /*----------------------------------------------------------------------------------*/
 #sobreNosotros-button {
@@ -36,7 +36,16 @@ header {
   text-align: left; /* Alinea el texto a la izquierda */
   font-weight: bold;
   margin: 0 0 0 0;
-  padding: 20px;
+  padding: 1vh;
+  color: #cff6f6;
+}
+#Testimonios-button {
+  background-color: rgb(79, 90, 103);
+  font-size: 2em; /* Cambia el tamaño de fuente según tus preferencias */
+  text-align: left; /* Alinea el texto a la izquierda */
+  font-weight: bold;
+  margin: 0 0 0 0;
+  padding: 2vh;
   color: #cff6f6;
 }
 #sobreNosotros {
@@ -56,7 +65,7 @@ header {
   font-size: 18px; /* Tamaño de fuente adecuado */
   line-height: 1.5; /* Espaciado entre líneas para una buena legibilidad */
   text-align: justify; /* Justifica el texto para un aspecto limpio */
-  color: rgba(175, 175, 175, 0.8); /* Cambia el color del texto a un tono oscuro */
+  color: rgb(207, 246, 246); /* Cambia el color del texto a un tono oscuro */
   padding-right: 10vh;
 }
 

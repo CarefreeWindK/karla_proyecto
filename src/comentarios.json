@@ -2,16 +2,21 @@
     {
         "id": 1,
         "name": "Persona 1",
-        "comment": "Comentario 1 sobre la discapacidad."
+        "comment": "Los puestos son de muy bajo nivel y con pagos muy bajos y  no tenemos opurtunidad de aspirar a un puesto de mas categoria"
     },
     {
         "id": 2,
         "name": "Persona 2",
-        "comment": "Comentario 2 sobre la discapacidad."
+        "comment": "Si la capacitacion fuera mas eficiente podriamos aspirar mejores puestos de trabajo y tener mejores salarios"
     },
     {
         "id": 3,
         "name": "Persona 3",
-        "comment": "Comentario 3 sobre la discapacidad."
+        "comment": "Hay que fomentar para que en todas las empresas haya personal capacitado en el idioma lesco y así poder facilitar un poco la comunicación y hacer que más personas sean capaces de comunicarse con personas como yo."
+    },
+    {
+        "id": 4,
+        "name": "Persona 4",
+        "comment": "Ese es el problema, no hay apoyo a las personas sordas."
     }
 ]
